@@ -70,13 +70,3 @@ O projeto inclui testes unitários que garantem o funcionamento correto do siste
    ```bash
    git clone https://github.com/LuisClaudioTeixeira/desafio-LuisClaudioTeixeira-2024.git
    ```
-2. Instale as dependências:
-
-   ```bash
-   npm install
-   ```
-3. Execute os testes:
-
-   ```bash
-   npm test
-   ```
